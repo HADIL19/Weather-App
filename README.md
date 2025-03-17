@@ -12,7 +12,7 @@ A beginner-friendly **Weather App** built using **Next.js, React, Tailwind CSS, 
 
 ### 🏗️ Navbar Component  
 - Creating a responsive navigation bar using Next.js and Tailwind CSS  
-
+ 
 ### 🔗 API and Data Types Configuration  
 - Integrating a third-party weather API  
 - Defining TypeScript interfaces for handling data  
