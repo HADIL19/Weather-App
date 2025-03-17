@@ -66,9 +66,4 @@ http://localhost:3000
 ```  
 
 
-## 🎯 Future Enhancements  
-- 🌙 Dark mode support  
-- 🗺️ Interactive weather maps  
-- 🏙️ Save favorite locations  
-- 🎙️ Voice search integration  
 
